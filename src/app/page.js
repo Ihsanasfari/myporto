@@ -45,7 +45,13 @@ const Home = async () => {
 
       <div id="about" className="flex flex-col gap-10">
         <h3 className="text-4xl">About me</h3>
-        <p className="text-xl"></p>
+        <p className="text-xl">
+          I'm a recent Telkom University graduate with a degree in Software
+          Engineering, passionate about front-end development. I have experience
+          working with React.js, Next.js, and Redux, and I'm dedicated to
+          creating engaging web experiences. Check out my portfolio for my
+          latest projects.
+        </p>
       </div>
 
       <div id="projects" className="flex flex-col gap-10">
