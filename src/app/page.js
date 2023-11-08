@@ -2,7 +2,6 @@ import ParticleBg from "../components/ParticleBg";
 import TypeIntro from "../components/TypeIntro";
 import Image from "next/image";
 import myprofile from "../../public/images/myprofile.webp";
-import test from "../../public/images/3.webp";
 import { BsArrowDownShort } from "react-icons/bs";
 import ProjectList from "../components/ProjectList";
 import ExperienceList from "../components/ExperienceList";

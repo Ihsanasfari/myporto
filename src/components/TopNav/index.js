@@ -4,7 +4,6 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { AiFillLinkedin } from "react-icons/ai";
 import { IoArrowBackOutline } from "react-icons/io5";
-import { BsBack } from "react-icons/bs";
 function TopNav() {
   const pathname = usePathname();
 

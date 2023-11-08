@@ -1,6 +1,5 @@
 import React from "react";
 import Image from "next/image";
-import test from "/public/images/3.webp";
 import experienceData from "/public/data/experienceData.json";
 const ExperienceList = () => {
   return (
